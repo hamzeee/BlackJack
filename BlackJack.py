@@ -265,4 +265,5 @@ def BlackJack():
             print ("Looks like someone is out of money :(")
 
         game_cont = rerun()
-        
+     
+BlackJack()
